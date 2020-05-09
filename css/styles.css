@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+hr {
+  margin: 80px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 5px;
+  border-top-color: grey;
+  width: 5%;
+}
+
+.middle-container{
+padding: 100px 0 70px;
+}
+
+
+a{
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 10px;
+text-decoration: none;
+}
+
+a:hover{
+  color: white;
+}
+
+.self-intro {
+  width: 30%;
+  margin: 0 auto;
+  line-height: 1.5;
+  font-weight: 300;
+}
+
+.myskills{
+padding-bottom: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+}
+
+.cloud1 {
+  position: relative;
+  left: 290px;
+}
+
+.ps {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.coding {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.land {
+  position: relative;
+  padding-top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 30px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.btn{
+  margin-top: 100px;
+    text-decoration: none;
+    letter-spacing: 0.99px;
+    font-size: 23.8px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to bottom, #11cdd4, #11999E);
+    border-radius: 5px;
+    padding:15px;
+    text-shadow: 0 1px 2px #000000;
+    box-shadow: 0 1px 5px #0D2444;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+.btn:hover{
+    font-weight: bold;
+    opacity: 0.9;
+    background: linear-gradient(to bottom, #30E3CB, #2bc4ad);
+    box-shadow: 0 1px 2px #000000;
+}
+
+.imad {
+  margin-top: 0;
+  font-size: 1.5rem;
+  font-style: oblique;
+  font-weight: normal;
+}
+
+.freelance{
+  padding: 20px 0 40px;
+}
+
+.bottom-container{
+background-color: #66BFBF;
+  position: relative;
+  padding-top: 40px;;
+}
+
+.copyright{
+  color: #EAF6F6;
+  padding-bottom: 20px;
+  margin-bottom: 0;
+  font-size: .75rem;
+}
+
+.footer-link {
+  color: #11999E;
+}
